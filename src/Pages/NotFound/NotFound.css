@@ -1,0 +1,25 @@
+._4O4page {
+  width: 45%;
+  margin: 50px auto;
+  position: relative;
+}
+._4O4page img {
+  width: 100%;
+}
+
+.btn-absolute {
+  position: absolute;
+  bottom: 30px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+.go-backBtn {
+  padding: 8px 25px;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-family: cursive;
+  transition: all linear 0.2s;
+}
+.go-backBtn:hover {
+  box-shadow: 2px 2px 20px lightgray;
+}

@@ -1,0 +1,7 @@
+[
+    {"id": "01", "name": "Mr. john", "expertize": "--Change Tire--", "img": "https://images.pexels.com/photos/3806288/pexels-photo-3806288.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"},
+    {"id": "02","name": "Mr. Denial", "expertize": "--Change Engine--", "img": "https://images.pexels.com/photos/3807329/pexels-photo-3807329.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"},
+    {"id": "03","name": "Mr. Halim", "expertize": "--Change Parts--", "img": "https://images.pexels.com/photos/3822843/pexels-photo-3822843.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"},
+    {"id": "04","name": "Mr. Smit", "expertize": "--Wash and Polish--", "img": "https://images.pexels.com/photos/1388278/pexels-photo-1388278.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"},
+    {"id": "05","name": "Mr. Rana", "expertize": "--All Rounder--", "img": "https://images.pexels.com/photos/2244746/pexels-photo-2244746.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"}
+]

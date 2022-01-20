@@ -1,0 +1,10 @@
+.alice-blue {
+  background: aliceblue;
+}
+.expert-person {
+  border-radius: 10px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.expert-person img {
+  border-radius: 5px;
+}

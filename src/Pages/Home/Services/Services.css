@@ -1,0 +1,25 @@
+.section-heading {
+  text-align: center;
+  font-size: 35px;
+  margin: 5px 0;
+}
+.service-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 20px;
+}
+
+/* media */
+
+@media screen and (max-width: 992px) {
+  .service-container {
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 15px;
+    width: 95%;
+  }
+}
+@media screen and (max-width: 768px) {
+  .service-container {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}

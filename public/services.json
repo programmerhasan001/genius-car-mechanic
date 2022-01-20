@@ -1,0 +1,36 @@
+[
+  { "id": "1",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, delectus doloremque. Modi provident, quaerat dignissimos repellat illum corporis adipisci deserunt, impedit earum similique consequuntur atque, voluptatum officia quod nulla possimus!", 
+    "name": "Replace Tire", "price": 2000, "time": 2, "img": "https://i.ibb.co/n1QyQtD/tire-change.jpg" },
+  {
+    "id": "2",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, delectus doloremque. Modi provident, quaerat dignissimos repellat illum corporis adipisci deserunt, impedit earum similique consequuntur atque, voluptatum officia quod nulla possimus!", 
+    "name": "HeadLight Change",
+    "price": 2000,
+    "time": 2,
+    "img": "https://i.ibb.co/rsdfnPq/head-light.jpg"
+  },
+  { "id": "3",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, delectus doloremque. Modi provident, quaerat dignissimos repellat illum corporis adipisci deserunt, impedit earum similique consequuntur atque, voluptatum officia quod nulla possimus!", 
+    "name": "Engine Check", "price": 2000, "time": 2, "img": "https://i.ibb.co/QCqnrf7/engine-lookup.jpg" },
+  {
+    "id": "4",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, delectus doloremque. Modi provident, quaerat dignissimos repellat illum corporis adipisci deserunt, impedit earum similique consequuntur atque, voluptatum officia quod nulla possimus!", 
+    "name": "Engine Cleaning",
+    "price": 2000,
+    "time": 2,
+    "img": "https://i.ibb.co/YjFgPzm/engine-cleaning.jpg"
+  },
+  {
+    "id": "5",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, delectus doloremque. Modi provident, quaerat dignissimos repellat illum corporis adipisci deserunt, impedit earum similique consequuntur atque, voluptatum officia quod nulla possimus!", 
+    "name": "Change Main-parts",
+    "price": 2000,
+    "time": 2,
+    "img": "https://i.ibb.co/3NPT9hs/change-engine.jpg"
+  },
+  { "id": "6", 
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, delectus doloremque. Modi provident, quaerat dignissimos repellat illum corporis adipisci deserunt, impedit earum similique consequuntur atque, voluptatum officia quod nulla possimus!",
+    "name": "Engine Oil", "price": 2000, "time": 2, "img": "https://i.ibb.co/HqR2nhg/engine.jpg" }
+]
+
